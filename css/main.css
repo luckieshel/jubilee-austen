@@ -7,7 +7,7 @@ body {
 }
 
 #about, #work, #contact {
-    height: 600px;
+    overflow: auto;
 }
 
 /***** GRID *****/
